@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Joseph Ogbekile (@OgbekileX)
 
-<!--
-**OgbekileX/OgbekileX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cybersecurity Analyst** focused on:
+- Red Team Simulation
+- Blue Team Detection Engineering
+- Ethical Malware Research
 
-Here are some ideas to get you started:
+🧪 I build offensive security tools for training, defense, and detection tuning.  
+🔐 Passionate about cybersecurity education and red team tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Project
+
+**[📋 Clipboard Hijacker – Red Team Simulation Tool](https://github.com/OgbekileX/clipboard-hijacker-win)**  
+Simulates clipboard-based wallet hijacking for red team labs and detection research.  
+> 🔥 Built for ethical use, detection testing, and educational labs only.
+
+---
+
+## 💼 Let's connect!
+- GitHub: [@OgbekileX](https://github.com/OgbekileX)
+- LinkedIn: https://www.linkedin.com/in/joseph-ogbekile
